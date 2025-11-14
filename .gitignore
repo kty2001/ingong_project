@@ -1,0 +1,10 @@
+# ignore directory
+__pycache__
+data/*
+!data/.gitkeep
+
+# ignore file
+*.pt
+
+
+# etc
